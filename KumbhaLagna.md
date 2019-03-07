@@ -1,6 +1,9 @@
 Is this your lagna for sure?
 
 
-Adding new changes to this file
-
 Jyotish rules.
+
+
+What's your Chandra-Lagna ?
+
+I'm testing now git push
