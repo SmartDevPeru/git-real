@@ -7,4 +7,4 @@ Jyotish rules.
 What's your Chandra-Lagna ?
 
 I'm testing now git push
-other change 
+other change
